@@ -1,3 +1,4 @@
+# Copied from https://github.com/mitchgu/scorpics/blob/master/make_collage.py
 from pathlib import Path
 from PIL import Image
 
